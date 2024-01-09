@@ -1,53 +1,51 @@
-# Atliq-Hospitality-Revenue-Analysis
+# Atliq Hospitality Revenue Analysis
+![](https://iconscout.com/illustration/woman-working-on-data-analysis-5405129)
 
-![](C:\Users\Lenovo\Downloads\gif9.png)
+## Company Background
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years.
 
-This repository contains an exploratory data analysis (EDA) project focused on analyzing Play Store apps data. The Play Store is a significant platform for Android app developers, offering vast potential for app-making businesses to thrive. By extracting actionable insights from the available data, developers can gain valuable knowledge to capture the Android market successfully.
 
-## Objective
-The objective of this project is to explore and analyze the Google Play Store apps dataset, which includes information such as category, rating, size, and more. Additionally, a dataset containing customer reviews of the Android apps is provided. The goal is to discover key factors that contribute to app engagement and overall success.
+## Problem statement
+Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
-## Summary 
-Google Play Store is an official app store developed and managed by Google for Android mobile devices. It provides a platform for users to discover, download, and install various applications, games, music, movies, TV shows, books, and magazines on their Android devices. The Play Store allows developers to publish their applications and content to reach a vast audience of Android users worldwide. With over 2.8 million apps and over 100 billion downloads, the Play Store is the largest app store for Android users, offering a wide variety of free and paid apps to meet users' needs and preferences.
+Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-In our project we have provided with two datasets-
 
-1. Playstore dataset- It consists of 13 column which has App,Category,Rating,Reviews,Size,Installs,Type,Price,Genres,Content Rating,Last updated,Current Ver,Android Ver and 10842 rows which has all the information with respect to corresponding column.Dataset also has null values and duplicates which is handled by us.
+## Task List
+You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
-2. User review dataset- It consists of 5 column which has App,Translated_Review,Sentiment,Sentiment_subjectivity,Sentiment_polarity and 64296 rows which has all information with respect to corresponding column.Dataset also has null values and duplicates which is handled by us.
+- Create the metrics according to the metric list.
 
-The main objective ot this project is to conduct exploratory data analysis on both datasets and aim to extract key insights which is crucial to improve app performance,user experience and identify the key factors driving the app success.
+- Create a dashboard according to the mock-up provided by stakeholders.
 
-The project will explore key questions such as: What are the most common user complaints or praises about the apps? Which categories of apps are most reviewed and what are their average ratings? What are the most popular apps and how do they perform across different categories? Are there any relationships between app size, installs, ratings, and reviews?
-
-We will present our findings through data visualizations such as heatmaps, scatter plots, bar graphs,Histogram to make the results easy to understand and interpret. The insights generated from this analysis could provide valuable information to app developers and business owners to make data-driven decisions and improve the user experience of their apps.
+- Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Conclusion
-Conclusions which are derived from Exploratory Data Analysis of both Datasets are as follows -
+Conclusions which are derived from Analysis of Datasets are as follows -
 
-1. 'FACEBOOK' app has received the highest reviews.
+1. The majority of the month's revenue was contributed by a 4.81% decrease in rebuilding efforts in June. Conversely, a 1.55% decline in revenue was observed in July compared to may month. 
+Interestingly, cancellation rates, consistently at 24% to 25% across all months, do not appear to be the cause of the sudden drop in revenue.
 
-2. Majority of the apps are accessed by 'EVERYONE'[i.e of all age groups,(81.82%)].
+2. Overall average rating are 3.62 and those are pretty consistent but still needs to look after a rating shown what prescription the past customers carry for your brand from their own experience at the property.
 
-3. App belongs to Category 'Family' has maximum distribution over the playstore but have lesser installation because of its high price.
+3. Similarly, total bookings displayed minimal variations, averaging between 44k to 46k, while occupancy rates remained relatively stable at 57% to 58% throughout all months.
 
-4. App belongs to Category 'Game' has maximum number of installations which is followed by the category 'Communication' and 'Tools' respectively.
+4. A notable decrease in revenue occurred during weekends in May, and similarly, a sudden decline was observed on weekdays in June.
 
-5. Majority of apps belongs to type 'FREE' i.e.92.18%
+5. The weekly data on trains confirms our initial findings that the primary reason for the drop in revenue is a decrease in booking %, not the cancellation %. While the cancellation % should certainly be addressed, minimizing the calculations can increase both occupancy % and revenue. However, it is important to note that the root cause lies in the drop in booking %.
 
-6. Majority of the apps have Rating in the range of 4-5.Average rating comes out to be 4.3
+6. According to monthly trends, the occupancy percentage and total bookings experienced a decline in July, while the cancellation percentage reached its peak in June. Surprisingly, despite the highest cancellation rate in June, the revenue witnessed a decrease in that same month.
 
-7. Maximum apps belonged to each category are working on Android Ver 4.0 and up.
+7. MUMBAI is the top most city through out all months. Atliq Palace and atliq exotica are highest contributing hotels. Business hotel contributing less to the revenue as well as their average rating is really a matter of concert essentially atliq seasons.
 
-8. App Avg. size varies from 10MB-20MB for majority of the apps.Only APP which belongs to category 'GAME' has a size of 34MB.
+8. Make our trip is better channel contribution around 19 to 20% to the revenue. However, major revenue around 40% is coming from unrecognized source which needs to identify for better marketing efforts.
 
-9. Maximum users sentiment are 'Positive' i.e. 64.11%
+9. Bangalore is the city with lowest occupancy rate throughout all months, still it’s the second highest city contributing to revenue. It has noticeable lower cancellation rate as well, However in month of July 2022 its sitting on top compare to its lowest cancellation rate in May 2022. 
 
-10. Most positive review app is 'Helix Jump'.
+10. The Elite class exhibits the highest revenue contribution, yet it concurrently faces the highest cancellation rate and the lowest occupancy rate consistently throughout the months.
 
-11. Most negative review app is 'Angry Bird Classic'.
+11. The presidential class ranks as the second-lowest in terms of revenue contributions. However, it consistently maintains a higher occupancy percentage throughout all months. Another notable aspect is its cancellation rate, which stands as the lowest throughout each month.
 
-To be more precise regarding the apps the current trend in the Android market are mostly from the category 'GAME', 'COMMUNICATION', 'TOOLS' which either assisting, communicating or entertaining apps.
 **************************************************************************************************************************************************
 To download the dataset: [Click here](https://drive.google.com/drive/folders/1lTGehQxi6TP94dHEuLKERb0sXXNA44b1?usp=sharing)
 
