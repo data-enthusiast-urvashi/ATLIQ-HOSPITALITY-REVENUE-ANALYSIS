@@ -1,5 +1,5 @@
 # Atliq Hospitality Revenue Analysis
-![](C:\Users\Lenovo\Downloads\gif9.png)
+![](https://iconscout.com/illustration/woman-working-on-data-analysis-5405129)
 
 ## Company Background
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years.
@@ -47,8 +47,6 @@ Interestingly, cancellation rates, consistently at 24% to 25% across all months,
 11. The presidential class ranks as the second-lowest in terms of revenue contributions. However, it consistently maintains a higher occupancy percentage throughout all months. Another notable aspect is its cancellation rate, which stands as the lowest throughout each month.
 
 **************************************************************************************************************************************************
-To download the dataset: [Click here](https://drive.google.com/drive/folders/1lTGehQxi6TP94dHEuLKERb0sXXNA44b1?usp=sharing)
-
 Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/urvashi-dhakate-b0780320a/)
