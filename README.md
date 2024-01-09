@@ -47,7 +47,7 @@ Interestingly, cancellation rates, consistently at 24% to 25% across all months,
 11. The presidential class ranks as the second-lowest in terms of revenue contributions. However, it consistently maintains a higher occupancy percentage throughout all months. Another notable aspect is its cancellation rate, which stands as the lowest throughout each month.
 
 **************************************************************************************************************************************************
-Interact with my dashboard [Click Here](https://www.novypro.com/project/atliq-hospitality-revenue-analysis-power-bi)
+Interact with my live dashboard [Click Here](https://www.novypro.com/project/atliq-hospitality-revenue-analysis-power-bi)
 
 Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
 
