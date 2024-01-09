@@ -1,5 +1,5 @@
 # Atliq Hospitality Revenue Analysis
-![](https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b95270iskqcu5fk9314hqlv2ql65dgsi2o3atf80fxwk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+![](https://miro.medium.com/v2/resize:fit:1358/1*z8-MhqVp0wtdrnCVUWNKWw.gif)
 
 ## Company Background
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years.
