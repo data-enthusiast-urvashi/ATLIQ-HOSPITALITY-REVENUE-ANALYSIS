@@ -20,6 +20,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+
+## Overall Analysis
+![Dashboard-Home](https://github.com/data-enthusiast-urvashi/Atliq-Hospitality-Revenue-Analysis/blob/main/Dashboard-Home.png)
+![Dashboard-Overview](https://github.com/data-enthusiast-urvashi/Atliq-Hospitality-Revenue-Analysis/blob/main/Dashboard-Overview.png)
+![Dashboard-Key-Metrices](https://github.com/data-enthusiast-urvashi/Atliq-Hospitality-Revenue-Analysis/blob/main/Dashboard-Key-Metrices.png)
+![Dashboard-Revenue](https://github.com/data-enthusiast-urvashi/Atliq-Hospitality-Revenue-Analysis/blob/main/Dashboard-Revenue.png)
+
 ## Conclusion
 Conclusions which are derived from Analysis of Datasets are as follows -
 
